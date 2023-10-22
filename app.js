@@ -40,7 +40,7 @@ const main = async() =>{
     const numeroTabla = 5;
     functions.tablaMultiplicar(numeroTabla);
 
-    const char = "hola ";   // Carácter a repetir
+    const char = "M";   // Carácter a repetir
     const repeticiones = 5; // Número de repeticiones
     functions.interfazrepetirCaracter(char, repeticiones);
     
